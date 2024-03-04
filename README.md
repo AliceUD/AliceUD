@@ -1,4 +1,4 @@
-### Hi there 👋   I'm Alice from Taiwan( 🇹🇼 ).
+### Hi there 👋 &nbsp; I'm Alice from Taiwan( 🇹🇼 ).
 
 # About Me
 
