@@ -3,7 +3,7 @@
 # About Me
 
 - After I get a bachelor's degree in industrial design, I became a self-taught programmers.
-- In 2022, I tried to add Developing apps for iOS and building websites to my catalogue of self-taught skills and launched an app and a website in 2023.
+- In 2022, I tried to add Developing apps for iOS and building websites to my catalogue of self-taught skills and launched an app / a website in 2023.
 - I've been learning penetration testing since 2024. 🌱
 - By the way, I love to listen to villain or badass playlists while coding. 😊
 
